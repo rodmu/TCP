@@ -1,0 +1,135 @@
+## STRING NAME (do not change!);English;French;Italian;Spanish;German;Polish;Portuguese;Russian;Extra1;Extra2;X
+## ========================;========================;========================;========================;========================;========================;========================;========================;========================;;========================;X
+##;;;;;;;;;;;X
+##;MAJOR NOTE ABOUT THIS FILE:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;This file is loaded after all other text files and can be used to replace previously defined strings.;;;;;;;;;;X
+##;On every successful replacement a note will be logged in savedebug.txt (extra debug logs must be enabled from settings.cfg for that), instead of an error which is trigered for replacements made by other text files.;;;;;;;;;;X
+##;Redefined engine strings must match exactly the format used by original text or the game could behave abnormally.;;;;;;;;;;X
+##;Run the game with extra debug logs set to level 2 in settings.cfg to ensure that there are no issues with redefined texts (any erors will be reported in savedebug.txt file in your main game folder).;;;;;;;;;;X
+##;This file is the best place for all strings of user mods.;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;EDITING TIPS:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;Open this document in Excel, version 5 or later.;;;;;;;;;;X
+##;To convert the semicolon-separated list to a normal Excel table, first click on the 'A' above to select the entire 'A' column.;;;;;;;;;;X
+##;Select 'Data' -> 'Text to Columns' -> 'Delimited' -> 'Next';;;;;;;;;;X
+##;Check 'Semicolon' (ONLY!) -> 'Finish';;;;;;;;;;X
+##;Select column 'A' through 'K' (click + drag on letters above columns);;;;;;;;;;X
+##;Right-click anywhere on the sheet (inside the selection) and select 'Column width' and set it so that only THREE columns are visible ('45' with 1024 x 768 screen resolution);;;;;;;;;;X
+##;Right-click anywhere on the sheet again (still inside the selection) and select 'Format Cells' -> 'Alignment' -> check 'Wrap Text' + select 'Vertical: Top' -> 'OK';;;;;;;;;;X
+##;Place the cursor in cell C2 and select 'Window' -> 'Freeze Panes' (allows you to scroll horizontally to see any language in the rightmost column while still having the string names/comments and the English original text in the left and middle column;;;;;;;;;;X
+##;CAREFULLY read the instructions in cells B26 - B68;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;NOTES TO TRANSLATORS:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;1) '%s' is for indicating where another string is inserted by the engine, and MAY NEVER BE REMOVED! If there are more than one '%s' in a string, they may NOT CHANGE PLACES.;;;;;;;;;;X
+##;2) '%d' is for indicating where integer value is inserted by the engine, and MAY NEVER BE REMOVED! If there are more than one '%d' in a string, they may not change places.;;;;;;;;;;X
+##;3) '%.0f' is for indicating where non-integer value is inserted by the engine, and MAY NEVER BE REMOVED! 0 can be replaced by another number and defines displayed digits after the decimal point. Add '+' in front of '.' (example: '%+.2f') to display the sign of the number.;;;;;;;;;;X
+##;4) '%c' is for indicating where a single character is inserted by the engine, and MAY NEVER BE REMOVED! ;;;;;;;;;;X
+##;5) '\%%' can be used to display a single '%' character in texts. Use that with caution and avoid if possible as it could cause issues if used improperly.;;;;;;;;;;X
+##;6) '%t' is for indicating where the player's 'title' is inserted, however only in game message boxes.;;;;;;;;;;X
+##;7) The characters '#' (hashmark), semicolon, '%' (percentage sign), '¶' (paragraph sign), quotation marks and '\' (backslash) MAY NOT BE USED (except when used as control codes as this will otherwise create serious problems!!! Quotation marks may not even be used in comments -- use a 'citation mark' (single) instead if necessary!);;;;;;;;;;X
+##;8) A dollar sign, '$' will always automatically be replaced by the 'ducats' icon.;;;;;;;;;;X
+##;9) Any row with a '#' in the first column (column 'A') will be ignored. However, you cannot use any paragraph characters in these rows!!!;;;;;;;;;;X
+##;10) To insert a carriage return, insert a '\n' (backslash + n);;;;;;;;;;X
+##;11) No formatting can be done in this file. To change the color of a text, insert the following codes in front of the word:;;;;;;;;;;X
+##;TEXT COLORS (Red,Green,Blue values):;;;;;;;;;;X
+##;§A;0,64,0;;;;;;;;;X
+##;§B;0,0,192;;;;;;;;;X
+##;§C;128,0,0;;;;;;;;;X
+##;§D;255,255,0;;;;;;;;;X
+##;§E;255,0,255;;;;;;;;;X
+##;§F;255,128,0;;;;;;;;;X
+##;§G;0,100,0;;;;;;;;;X
+##;§H;128,128,128;;;;;;;;;X
+##;§I;0,0,255;;;;;;;;;X
+##;§J;0,192,0;;;;;;;;;X
+##;§M;100,255,100;;;;;;;;;X
+##;§N;255,100,100;;;;;;;;;X
+##;§R;240,0,0;;;;;;;;;X
+##;§W;255,255,255;;;;;;;;;X
+##;§Y;208,232,248;;;;;;;;;X
+##;§Z;0,0,0;;;;;;;;;X
+##;§§;restores old color;;;;;;;;;X
+##;Note that the color change will be applied to all words after the code, until the end of the line that the word is printed on. If several words should have a color change, put the code in front of each of them to be on the safe side. If only one word should have a color change, make sure to reset the color after the word.;;;;;;;;;;X
+##;12) Unless otherwise specifically stated, length of words and texts does not really matter THAT much (message boxes, rollover help boxes and buttons WILL stretch to fit the text string). However you will notice once the translation is inserted that space IS limited in quite a few areas so be brief, and try not to use words that are considerably longer than the English original.;;;;;;;;;;X
+##;13) ALL CELLS in column 'L' in this document MUST contain a character!;;;;;;;;;;X
+##;14) The LAST CELL in the 'A' column MUST contain the string '#EOF';;;;;;;;;;X
+##;15) If you want to begin a string with a ' (citation mark), you will need to type it twice (Excel will read the first one as a commentary which is not exported into the actual text database file);;;;;;;;;;X
+##;16) Test any special punctuation symbols and characters for proper displaying by the game first, before using those in other texts.;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;WHEN DONE:;;;;;;;;;;X
+##;Save as 'Semicolon Separated (.csv)' format, and make sure file name is not changed.;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;NOTE:;;;;;;;;;;X
+##;If Excel complains about an 'Error in formula' when the cell content begins with a '+' or '-' sign, type a ' (citation mark) in front of the plus or minus.;;;;;;;;;;X
+##;;;;;;;;;;;X
+## ========================;========================;========================;========================;========================;========================;========================;========================;========================;;========================;X
+## LANGUAGE;English;French;Italian;Spanish;German;Polish;Portuguese;Russian;Extra1;Extra2;X
+## ========================;========================;========================;========================;========================;========================;========================;========================;========================;;========================;X
+##;;;;;;;;;;;X
+#RT_USER_1;User tech component 1;Composant tech perso 1;Componente tecnologico 1;Tecnolog?a personalizada 1;Bestandteil der Benutzertechnologie 1;Komponent technologiczny 1;;????????? ?????????? 1;;;X
+#RT_USER_2;User tech component 2;Composant tech perso 2;Componente tecnologico 2;Tecnolog?a personalizada 2;Bestandteil der Benutzertechnologie 2;Komponent technologiczny 2;;????????? ?????????? 2;;;X
+#RT_USER_3;User tech component 3;Composant tech perso 3;Componente tecnologico 3;Tecnolog?a personalizada 3;Bestandteil der Benutzertechnologie 3;Komponent technologiczny 3;;????????? ?????????? 3;;;X
+#RT_USER_4;User tech component 4;Composant tech perso 4;Componente tecnologico 4;Tecnolog?a personalizada 4;Bestandteil der Benutzertechnologie 4;Komponent technologiczny 4;;????????? ?????????? 4;;;X
+#RT_USER_5;User tech component 5;Composant tech perso 5;Componente tecnologico 5;Tecnolog?a personalizada 5;Bestandteil der Benutzertechnologie 5;Komponent technologiczny 5;;????????? ?????????? 5;;;X
+#RT_USER_6;User tech component 6;Composant tech perso 6;Componente tecnologico 6;Tecnolog?a personalizada 6;Bestandteil der Benutzertechnologie 6;Komponent technologiczny 6;;????????? ?????????? 6;;;X
+#RT_USER_7;User tech component 7;Composant tech perso 7;Componente tecnologico 7;Tecnolog?a personalizada 7;Bestandteil der Benutzertechnologie 7;Komponent technologiczny 7;;????????? ?????????? 7;;;X
+#RT_USER_8;User tech component 8;Composant tech perso 8;Componente tecnologico 8;Tecnolog?a personalizada 8;Bestandteil der Benutzertechnologie 8;Komponent technologiczny 8;;????????? ?????????? 8;;;X
+#RT_USER_9;User tech component 9;Composant tech perso 9;Componente tecnologico 9;Tecnolog?a personalizada 9;Bestandteil der Benutzertechnologie 9;Komponent technologiczny 9;;????????? ?????????? 9;;;X
+#RT_USER_10;User tech component 10;Composant tech perso 10;Componente tecnologico 10;Tecnolog?a personalizada 10;Bestandteil der Benutzertechnologie 10;Komponent technologiczny 10;;????????? ?????????? 10;;;X
+#RT_USER_11;User tech component 11;Composant tech perso 11;Componente tecnologico 11;Tecnolog?a personalizada 11;Bestandteil der Benutzertechnologie 11;Komponent technologiczny 11;;????????? ?????????? 11;;;X
+#RT_USER_12;User tech component 12;Composant tech perso 12;Componente tecnologico 12;Tecnolog?a personalizada 12;Bestandteil der Benutzertechnologie 12;Komponent technologiczny 12;;????????? ?????????? 12;;;X
+#RT_USER_13;User tech component 13;Composant tech perso 13;Componente tecnologico 13;Tecnolog?a personalizada 13;Bestandteil der Benutzertechnologie 13;Komponent technologiczny 13;;????????? ?????????? 13;;;X
+#RT_USER_14;User tech component 14;Composant tech perso 14;Componente tecnologico 14;Tecnolog?a personalizada 14;Bestandteil der Benutzertechnologie 14;Komponent technologiczny 14;;????????? ?????????? 14;;;X
+#RT_USER_15;User tech component 15;Composant tech perso 15;Componente tecnologico 15;Tecnolog?a personalizada 15;Bestandteil der Benutzertechnologie 15;Komponent technologiczny 15;;????????? ?????????? 15;;;X
+#RT_USER_16;User tech component 16;Composant tech perso 16;Componente tecnologico 16;Tecnolog?a personalizada 16;Bestandteil der Benutzertechnologie 16;Komponent technologiczny 16;;????????? ?????????? 16;;;X
+#RT_USER_17;User tech component 17;Composant tech perso 17;Componente tecnologico 17;Tecnolog?a personalizada 17;Bestandteil der Benutzertechnologie 17;Komponent technologiczny 17;;????????? ?????????? 17;;;X
+#RT_USER_18;User tech component 18;Composant tech perso 18;Componente tecnologico 18;Tecnolog?a personalizada 18;Bestandteil der Benutzertechnologie 18;Komponent technologiczny 18;;????????? ?????????? 18;;;X
+#RT_USER_19;User tech component 19;Composant tech perso 19;Componente tecnologico 19;Tecnolog?a personalizada 19;Bestandteil der Benutzertechnologie 19;Komponent technologiczny 19;;????????? ?????????? 19;;;X
+#RT_USER_20;User tech component 20;Composant tech perso 20;Componente tecnologico 20;Tecnolog?a personalizada 20;Bestandteil der Benutzertechnologie 20;Komponent technologiczny 20;;????????? ?????????? 20;;;X
+#RT_USER_21;User tech component 21;Composant tech perso 21;Componente tecnologico 21;Tecnolog?a personalizada 21;Bestandteil der Benutzertechnologie 21;Komponent technologiczny 21;;????????? ?????????? 21;;;X
+#RT_USER_22;User tech component 22;Composant tech perso 22;Componente tecnologico 22;Tecnolog?a personalizada 22;Bestandteil der Benutzertechnologie 22;Komponent technologiczny 22;;????????? ?????????? 22;;;X
+#RT_USER_23;User tech component 23;Composant tech perso 23;Componente tecnologico 23;Tecnolog?a personalizada 23;Bestandteil der Benutzertechnologie 23;Komponent technologiczny 23;;????????? ?????????? 23;;;X
+#RT_USER_24;User tech component 24;Composant tech perso 24;Componente tecnologico 24;Tecnolog?a personalizada 24;Bestandteil der Benutzertechnologie 24;Komponent technologiczny 24;;????????? ?????????? 24;;;X
+#RT_USER_25;User tech component 25;Composant tech perso 25;Componente tecnologico 25;Tecnolog?a personalizada 25;Bestandteil der Benutzertechnologie 25;Komponent technologiczny 25;;????????? ?????????? 25;;;X
+#RT_USER_26;User tech component 26;Composant tech perso 26;Componente tecnologico 26;Tecnolog?a personalizada 26;Bestandteil der Benutzertechnologie 26;Komponent technologiczny 26;;????????? ?????????? 26;;;X
+#RT_USER_27;User tech component 27;Composant tech perso 27;Componente tecnologico 27;Tecnolog?a personalizada 27;Bestandteil der Benutzertechnologie 27;Komponent technologiczny 27;;????????? ?????????? 27;;;X
+#RT_USER_28;User tech component 28;Composant tech perso 28;Componente tecnologico 28;Tecnolog?a personalizada 28;Bestandteil der Benutzertechnologie 28;Komponent technologiczny 28;;????????? ?????????? 28;;;X
+#RT_USER_29;User tech component 29;Composant tech perso 29;Componente tecnologico 29;Tecnolog?a personalizada 29;Bestandteil der Benutzertechnologie 29;Komponent technologiczny 29;;????????? ?????????? 29;;;X
+#RT_USER_30;User tech component 30;Composant tech perso 30;Componente tecnologico 30;Tecnolog?a personalizada 30;Bestandteil der Benutzertechnologie 30;Komponent technologiczny 30;;????????? ?????????? 30;;;X
+#RT_USER_31;User tech component 31;Composant tech perso 31;Componente tecnologico 31;Tecnolog?a personalizada 31;Bestandteil der Benutzertechnologie 31;Komponent technologiczny 31;;????????? ?????????? 31;;;X
+#RT_USER_32;User tech component 32;Composant tech perso 32;Componente tecnologico 32;Tecnolog?a personalizada 32;Bestandteil der Benutzertechnologie 32;Komponent technologiczny 32;;????????? ?????????? 32;;;X
+#RT_USER_33;User tech component 33;Composant tech perso 33;Componente tecnologico 33;Tecnolog?a personalizada 33;Bestandteil der Benutzertechnologie 33;Komponent technologiczny 33;;????????? ?????????? 33;;;X
+#RT_USER_34;User tech component 34;Composant tech perso 34;Componente tecnologico 34;Tecnolog?a personalizada 34;Bestandteil der Benutzertechnologie 34;Komponent technologiczny 34;;????????? ?????????? 34;;;X
+#RT_USER_35;User tech component 35;Composant tech perso 35;Componente tecnologico 35;Tecnolog?a personalizada 35;Bestandteil der Benutzertechnologie 35;Komponent technologiczny 35;;????????? ?????????? 35;;;X
+#RT_USER_36;User tech component 36;Composant tech perso 36;Componente tecnologico 36;Tecnolog?a personalizada 36;Bestandteil der Benutzertechnologie 36;Komponent technologiczny 36;;????????? ?????????? 36;;;X
+#RT_USER_37;User tech component 37;Composant tech perso 37;Componente tecnologico 37;Tecnolog?a personalizada 37;Bestandteil der Benutzertechnologie 37;Komponent technologiczny 37;;????????? ?????????? 37;;;X
+#RT_USER_38;User tech component 38;Composant tech perso 38;Componente tecnologico 38;Tecnolog?a personalizada 38;Bestandteil der Benutzertechnologie 38;Komponent technologiczny 38;;????????? ?????????? 38;;;X
+#RT_USER_39;User tech component 39;Composant tech perso 39;Componente tecnologico 39;Tecnolog?a personalizada 39;Bestandteil der Benutzertechnologie 39;Komponent technologiczny 39;;????????? ?????????? 39;;;X
+#RT_USER_40;User tech component 40;Composant tech perso 40;Componente tecnologico 40;Tecnolog?a personalizada 40;Bestandteil der Benutzertechnologie 40;Komponent technologiczny 40;;????????? ?????????? 40;;;X
+#RT_USER_41;User tech component 41;Composant tech perso 41;Componente tecnologico 41;Tecnolog?a personalizada 41;Bestandteil der Benutzertechnologie 41;Komponent technologiczny 41;;????????? ?????????? 41;;;X
+#RT_USER_42;User tech component 42;Composant tech perso 42;Componente tecnologico 42;Tecnolog?a personalizada 42;Bestandteil der Benutzertechnologie 42;Komponent technologiczny 42;;????????? ?????????? 42;;;X
+#RT_USER_43;User tech component 43;Composant tech perso 43;Componente tecnologico 43;Tecnolog?a personalizada 43;Bestandteil der Benutzertechnologie 43;Komponent technologiczny 43;;????????? ?????????? 43;;;X
+#RT_USER_44;User tech component 44;Composant tech perso 44;Componente tecnologico 44;Tecnolog?a personalizada 44;Bestandteil der Benutzertechnologie 44;Komponent technologiczny 44;;????????? ?????????? 44;;;X
+#RT_USER_45;User tech component 45;Composant tech perso 45;Componente tecnologico 45;Tecnolog?a personalizada 45;Bestandteil der Benutzertechnologie 45;Komponent technologiczny 45;;????????? ?????????? 45;;;X
+#RT_USER_46;User tech component 46;Composant tech perso 46;Componente tecnologico 46;Tecnolog?a personalizada 46;Bestandteil der Benutzertechnologie 46;Komponent technologiczny 46;;????????? ?????????? 46;;;X
+#RT_USER_47;User tech component 47;Composant tech perso 47;Componente tecnologico 47;Tecnolog?a personalizada 47;Bestandteil der Benutzertechnologie 47;Komponent technologiczny 47;;????????? ?????????? 47;;;X
+#RT_USER_48;User tech component 48;Composant tech perso 48;Componente tecnologico 48;Tecnolog?a personalizada 48;Bestandteil der Benutzertechnologie 48;Komponent technologiczny 48;;????????? ?????????? 48;;;X
+#RT_USER_49;User tech component 49;Composant tech perso 49;Componente tecnologico 49;Tecnolog?a personalizada 49;Bestandteil der Benutzertechnologie 49;Komponent technologiczny 49;;????????? ?????????? 49;;;X
+#RT_USER_50;User tech component 50;Composant tech perso 50;Componente tecnologico 50;Tecnolog?a personalizada 50;Bestandteil der Benutzertechnologie 50;Komponent technologiczny 50;;????????? ?????????? 50;;;X
+#RT_USER_51;User tech component 51;Composant tech perso 51;Componente tecnologico 51;Tecnolog?a personalizada 51;Bestandteil der Benutzertechnologie 51;Komponent technologiczny 51;;????????? ?????????? 51;;;X
+#RT_USER_52;User tech component 52;Composant tech perso 52;Componente tecnologico 52;Tecnolog?a personalizada 52;Bestandteil der Benutzertechnologie 52;Komponent technologiczny 52;;????????? ?????????? 52;;;X
+#RT_USER_53;User tech component 53;Composant tech perso 53;Componente tecnologico 53;Tecnolog?a personalizada 53;Bestandteil der Benutzertechnologie 53;Komponent technologiczny 53;;????????? ?????????? 53;;;X
+#RT_USER_54;User tech component 54;Composant tech perso 54;Componente tecnologico 54;Tecnolog?a personalizada 54;Bestandteil der Benutzertechnologie 54;Komponent technologiczny 54;;????????? ?????????? 54;;;X
+#RT_USER_55;User tech component 55;Composant tech perso 55;Componente tecnologico 55;Tecnolog?a personalizada 55;Bestandteil der Benutzertechnologie 55;Komponent technologiczny 55;;????????? ?????????? 55;;;X
+#RT_USER_56;User tech component 56;Composant tech perso 56;Componente tecnologico 56;Tecnolog?a personalizada 56;Bestandteil der Benutzertechnologie 56;Komponent technologiczny 56;;????????? ?????????? 56;;;X
+#RT_USER_57;User tech component 57;Composant tech perso 57;Componente tecnologico 57;Tecnolog?a personalizada 57;Bestandteil der Benutzertechnologie 57;Komponent technologiczny 57;;????????? ?????????? 57;;;X
+#RT_USER_58;User tech component 58;Composant tech perso 58;Componente tecnologico 58;Tecnolog?a personalizada 58;Bestandteil der Benutzertechnologie 58;Komponent technologiczny 58;;????????? ?????????? 58;;;X
+#RT_USER_59;User tech component 59;Composant tech perso 59;Componente tecnologico 59;Tecnolog?a personalizada 59;Bestandteil der Benutzertechnologie 59;Komponent technologiczny 59;;????????? ?????????? 59;;;X
+#RT_USER_60;User tech component 60;Composant tech perso 60;Componente tecnologico 60;Tecnolog?a personalizada 60;Bestandteil der Benutzertechnologie 60;Komponent technologiczny 60;;????????? ?????????? 60;;;X
+#EOF;;;;;;;;;;;X
+#EOF;;;;;;;;;;;X

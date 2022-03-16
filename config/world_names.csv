@@ -1,0 +1,281 @@
+#  STRING NAME (do not change!);English;French;Italian;Spanish;German;Polish;Portugese;Russian;;Extra2;X
+#;;;;;;;;;;;X
+# Countries!;;;;;;;;;;;X
+#;;;;;;;;;;;X
+ETH;Ethiopia;Ethiopie;Etiopia;Etiopía;Abessinien;Etiopia;;;;;X
+IND;India;Inde;India;India;Indien;Indie;;;;;X
+SPR;Rep. Spain;Espagne Rép.;Spagna rep.;España Republicana;Rep. Spanien;Rep. Hiszpania;;;;;X
+CHC;Comm. China;Chine Comm.;Cina comunista;China Comunista;Rotchina;Kom. Chiny;;;;;X
+KOR;Korea;Corée;Corea;Corea;Korea;Korea;;;;;X
+INO;Indonesia;Indonésie;Indonesia;Indonesia;Indonesien;Indonezja;;;;;X
+CRO;Croatia;Croatie;Croazia;Croacia;Kroatien;Chorwacja;;;;;X
+SLO;Slovakia;Slovaquie;Slovacchia;Eslovaquia;Slowakei;S³owacja;;;;;X
+ALB;Albania;Albanie;Albania;Albania;Albanien;Albania;;;;;X
+SIA;Siam;Siam;Siam;Siam;Siam;Syjam;;;;;X
+SAU;Saudi Arabia;Arabie Saoudite;Arabia Saudita;Arabia Saudí;Saudi-Arabien;Arabia Saudyjska;;;;;X
+MON;Mongolia;Mongolie;Mongolia;Mongolia;Mongolei;Mongolia;;;;;X
+GUA;Guatemala;Guatemala;Guatemala;Guatemala;Guatemala;Gwatemala;;;;;X
+COS;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Kostaryka;;;;;X
+NIC;Nicaragua;Nicaragua;Nicaragua;Nicaragua;Nicaragua;Nikaragua;;;;;X
+DOM;Dominican Republic;Rép. Dominicaine;Rep. Dominicana;República Dominicana;Dominikanische Republik;Rep. Dominikany;;;;;X
+PHI;Philippines;Philippines;Filippine;Filipinas;Philippinen;Filipiny;;;;;X
+BHU;Bhutan;Bhoutan;Bhutan;Bután;Bhutan;Bhutan;;;;;x
+BRU;Brunei;Brunei;Brunei;Brunei;Brunei;Brunei;;;;;x
+EGY;Egypt;Egypte;Egitto;Egipto;Ägypten;Egipt;;;;;x
+SAL;El Salvador;Salvador;El Salvador;El Salvador;El Salvador;Salwador;;;;;x
+HAI;Haiti;Haiti;Haiti;Haití;Haiti;Haiti;;;;;x
+HON;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;;;;;x
+ICL;Iceland;Islande;Islanda;Islandia;Island;Islandia;;;;;x
+IRQ;Iraq;Irak;Iraq;Irak;Irak;Irak;;;;;x
+JOR;Jordan;Jordanie;Giordania;Jordán;Jordanien;Jordania;;;;;x
+LEB;Lebanon;Liban;Libano;Líbano;Libanon;Liban;;;;;x
+LIB;Liberia;Libéria;Liberia;Liberia;Liberia;Liberia;;;;;x
+LUX;Luxemburg;Luxembourg;Lussemburgo;Luxemburgo;Luxemburg;Luksemburg;;;;;x
+MIN;(Undefined Nation);(nation non définie);(Nazione non specificata);(Nación sin definir);(nicht definierte Nation);(Nieokreœlone pañstwo);;;;;X
+ENG;United Kingdom;Royaume Uni;Regno Unito;Reino Unido;Großbritannien;Wielka Brytania;;;;;X
+FRA;France;France;Francia;Francia;Frankreich;Francja;;;;;X
+GER;Germany;Allemagne;Germania;Alemania;Deutsches Reich;Niemcy;;;;;X
+HOL;Netherlands;Pays Bas;Paesi Bassi;Países Bajos;Niederlande;Holandia;;;;;X
+POR;Portugal;Portugal;Portogallo;Portugal;Portugal;Portugalia;;;;;X
+ITA;Italy;Italie;Italia;Italia;Italien;W³ochy;;;;;X
+SOV;Soviet Union;URSS;Unione Sovietica;URSS;Sowjetunion;Zwi¹zek Radziecki;;;;;X
+SPA;Nat. Spain;Espagne nationaliste;Spagna naz.;España Nacional;Nat. Spanien;Nacj. Hiszpania;;;;;X
+SWE;Sweden;Suède;Svezia;Suecia;Schweden;Szwecja;;;;;X
+TUR;Turkey;Turquie;Turchia;Turquía;Türkei;Turcja;;;;;X
+JAP;Japan;Japon;Giappone;Japón;Japan;Japonia;;;;;X
+CHI;Nat. China;Chine nationaliste;Cina naz.;China Nacionalista;Nat. China;Nacj. Chiny;;;;;X
+POL;Poland;Pologne;Polonia;Polonia;Polen;Polska;;;;;X
+NOR;Norway;Norvège;Norvegia;Noruega;Norwegen;Norwegia;;;;;X
+BEL;Belgium;Belgique;Belgio;Bélgica;Belgien;Belgia;;;;;X
+DEN;Denmark;Danemark;Danimarca;Dinamarca;Dänemark;Dania;;;;;X
+SCH;Switzerland;Suisse;Svizzera;Suiza;Schweiz;Szwajcaria;;;;;X
+CUB;Cuba;Cuba;Cuba;Cuba;Kuba;Kuba;;;;;X
+GRE;Greece;Grèce;Grecia;Grecia;Griechenland;Grecja;;;;;X
+BUL;Bulgaria;Bulgarie;Bulgaria;Bulgaria;Bulgarien;Bu³garia;;;;;X
+YUG;Yugoslavia;Yougoslavie;Jugoslavia;Yugoslavia;Jugoslawien;Jugos³awia;;;;;X
+HUN;Hungary;Hongrie;Ungheria;Hungría;Ungarn;Wêgry;;;;;X
+ROM;Romania;Roumanie;Romania;Rumania;Rumänien;Rumunia;;;;;X
+AUS;Austria;Autriche;Austria;Austria;Österreich;Austria;;;;;X
+CZE;Czechoslovakia;Tchécoslovaquie;Cecoslovacchia;Checoslovaquia;Tschechoslowakei;Czechos³owacja;;;;;X
+IRE;Ireland;Irlande;Irlanda;Irlanda;Irland;Irlandia;;;;;X
+EST;Estonia;Estonie;Estonia;Estonia;Estland;Estonia;;;;;X
+LAT;Latvia;Lettonie;Lettonia;Letonia;Lettland;£otwa;;;;;X
+LIT;Lithuania;Lituanie;Lituania;Lituania;Litauen;Litwa;;;;;X
+FIN;Finland;Finlande;Finlandia;Finlandia;Finnland;Finlandia;;;;;X
+PER;Persia;Perse;Persia;Persia;Persien;Persja;;;;;X
+AFG;Afghanistan;Afghanistan;Afghanistan;Afganistán;Afghanistan;Afganistan;;;;;X
+BRA;Brazil;Brésil;Brasile;Brasil;Brasilien;Brazylia;;;;;X
+ARG;Argentina;Argentine;Argentina;Argentina;Argentinien;Argentyna;;;;;X
+MEX;Mexico;Mexique;Messico;México;Mexiko;Meksyk;;;;;X
+COL;Colombia;Colombie;Colombia;Colombia;Kolumbien;Kolumbia;;;;;X
+VEN;Venezuela;Vénézuéla;Venezuela;Venezuela;Venezuela;Wenezuela;;;;;X
+PRU;Peru;Pérou;Perù;Perú;Peru;Peru;;;;;X
+ECU;Ecuador;Equateur;Ecuador;Ecuador;Ecuador;Ekwador;;;;;X
+URU;Uruguay;Uruguay;Uruguay;Uruguay;Uruguay;Urugwaj;;;;;X
+PAR;Paraguay;Paraguay;Paraguay;Paraguay;Paraguay;Paragwaj;;;;;X
+BOL;Bolivia;Bolivie;Bolivia;Bolivia;Bolivien;Boliwia;;;;;X
+NZL;New Zealand;Nouvelle-Zélande;Nuova Zelanda;Nueva Zelanda;Neuseeland;Nowa Zelandia;;;;;X
+CAN;Canada;Canada;Canada;Canadá;Kanada;Kanada;;;;;X
+AST;Australia;Australie;Australia;Australia;Australien;Australia;;;;;X
+VIC;Vichy France;Régime de Vichy;Vichy francese;Francia de Vichy;Vichy-Frankreich;Vichy;;;;;X
+MAN;Manchukuo;Mandchourie;Manchukuo;Manchuria;Mandschuko;Mand¿ukuo;;;;;X
+USA;USA;USA;USA;EE. UU.;USA;USA;;;;;X
+CHL;Chile;Chili;Cile;Chile;Chile;Chile;;;;;X
+MTN;Montenegro;Monténégro;Montenegro;Montenegro;Montenegro;Czarnogóra;;;;;x
+NEP;Nepal;Népal;Nepal;Nepal;Nepal;Nepal;;;;;x
+OMN;Oman;Oman;Oman;Omán;Oman;Oman;;;;;x
+PAN;Panama;Panama;Panama;Panamá;Panama;Panama;;;;;x
+SAR;Sarawak;Sarawak;Sarawak;Sarawak;Sarawak;Sarawak;;;;;x
+SER;Serbia;Serbie;Serbia;Serbia;Serbien;Serbia;;;;;x
+SIK;Sinkiang;Xinjiang;Sinkiang;Xinjiang;Sinkiang;Sinciang-Ujgur;;;;;x
+SAF;South Africa;Afrique du Sud;Sudafrica;Sudáfrica;Südafrika;RPA;;;;;X
+SYR;Syria;Syrie;Siria;Siria;Syrien;Syria;;;;;X
+TAN;Tannu Tuva;Touva;Tannu Tuva;Tannu Tuva;Tannu-Tuwa;Tanu Tuwa;;;;;X
+TIB;Tibet;Tibet;Tibet;Tíbet;Tibet;Tybet;;;;;X
+YEM;Yemen;Yémen;Yemen;Yemen;Jemen;Jemen;;;;;X
+ALG;Algeria;Algérie;Algeria;Argelia;Algerien;Algieria;;;;;X
+ARM;Armenia;Arménie;Armenia;Armenia;Armenien;Armenia;;;;;X
+AZB;Azerbaijan;Azerbaidjan;Azerbaigian;Azerbaiyán;Aserbaidschan;Azerbejd¿an;;;;;X
+BUR;Burma;Birmanie;Birmania;Birmania;Burma;Birma;;;;;X
+BLR;Byelorussia;Biélorussie;Bielorussia;Bielorrusia;Weissrussland;Bia³oruœ;;;;;X
+GEO;Georgia;Géorgie;Georgia;Georgia;Georgia;Gruzja;;;;;X
+IDC;Indochina;Indochine;Indocina;Indochina;Indochina;Indochiny;;;;;X
+KAZ;Kazakhstan;Kazakhstan;Kazakistan;Kazajstán;Kasachstan;Kazachstan;;;;;X
+KYG;Kyrgyzstan;Kurdistan;Kirghizistan;Kirguizistán;Kirgisistan;Kirgistan;;;;;X
+LBY;Libya;Libye;Libia;Libia;Libyen;Libia;;;;;X
+MLY;Malaysia;Malaisie;Malesia;Malasia;Malaysia;Malezja;;;;;X
+MOR;Morocco;Maroc;Marocco;Marruecos;Marokko;Maroko;;;;;X
+PAL;Palestine;Palestine;Palestina;Palestina;Palästina;Palestyna;;;;;X
+RUS;Russia;Russie;Russia;Rusia;Russland;Rosja;;;;;X
+SIB;Siberia;Sibérie;Siberia;Siberia;Sibirien;Syberia;;;;;X
+SLV;Slovenia;Slovénie;Slovenia;Eslovenia;Slowenien;S³owenia;;;;;X
+TAJ;Tajikistan;Tadjikistan;Tagikistan;Tayikistán;Tadschikistan;Tad¿ykistan;;;;;X
+TUN;Tunisia;Tunisie;Tunisia;Túnez;Tunesien;Tunezja;;;;;X
+TRK;Turkmenistan;Turkménistan;Turkmenistan;Turkmenistán;Turkmenistan;Turkmenistan;;;;;X
+UKR;Ukraine;Ukraine;Ucraina;Ucrania;Ukraine;Ukraina;;;;;X
+UZB;Uzbekistan;Ouzbékistan;Uzbekistan;Uzbekistán;Usbekistan;Uzbekistan;;;;;X
+ANG;Angola;Angola;Angola;Angola;Angola;Angola;;;;;X
+ARA;Arab Federation;Fédération arabe;Federazione araba;Federación Árabe;Arabische Föderation;Federacja Arabska;;;;;X
+BEN;Benin-Sahel;Bénin-Sahel;Benin-Sahel;Benin-Sahel;Benin-Sahel;Benin-Sahel;;;;;X
+BOS;Bosnia;Bosnie;Bosnia;Bosnia;Bosnien;Boœnia;;;;;X
+CAL;California;Californie;California;California;Kalifornien;Kalifornia;;;;;X
+CAM;Cameroon;Cameroun;Camerun;Camerún;Kamerun;Kamerun;;;;;X
+CGX;Guangxi Clique;Clan Guangxi ;Guangxi Clique;Camarilla de Guangxi;Guangxi-Clique;Kwang-Si;;;;;X
+CMB;Cambodia;Cambodge;Cambogia;Camboya;Kambodscha;Kambod¿a;;;;;X
+CON;Congo;Congo;Congo;El Congo;Kongo;Kongo;;;;;X
+CSA;Confederate States ;États confédérés;Stati Confederati;Estados Confederados;Konföderierte Staaten;Konfederacja;;;;;X
+CSX;Shanxi;Shanxi;Shanxi;Shansi;Shanxi;Szansi;;;;;X
+CXB;Xibei San Ma;Xibei San Ma;Xibei San Ma;Xibei San Ma;Xibei San Ma;Xibei San Ma;;;;;X
+CYN;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Junnan;;;;;X
+CYP;Cyprus;Chypre;Cipro;Chipre;Zypern;Cypr;;;;;X
+DDR;DDR;RDA;DDR;RDA;DDR;NRD;;;;;X
+DFR;FRG;RFA;FRG;RFA;BRD;RFN;;;;;X
+EAF;East African Union;Union est-africaine;Unione africana orientale;Unión Africana Oriental;Ostafrikanische Union;Wsp. Wschodnioafr.;;;;;X
+EQA;Equatorial Africa;Afrique équatoriale;Africa equatoriale;África Ecuatorial;Äquatorialafrika;Afryka Równikowa;;;;;X
+EUS;Euskadi;Euskadi;Euskadi;Euskadi;Euskadi;Kraj Basków;;;;;X
+FLA;Flanders;Flandre;Fiandre;Flandes;Flandern;Flandria;;;;;X
+GAB;Gabon;Gabon;Gabon;Gabón;Gabon;Gabon;;;;;X
+GLD;Gold Coast;République du Ghana;Costa d'Oro;Costa de Oro;Goldküste;Z³ote Wybrze¿e;;;;;X
+GUI;Guinea;Guinée;Guinea;Guinea;Guinea;Gwinea;;;;;X
+GUY;Guyana;Guyane;Guyana;Guayana;Guyana;Gujana;;;;;X
+ISR;Israel;Israël;Israele;Israel;Israel;Izrael;;;;;X
+KUR;Kurdistan;Kurdistan;Kurdistan;Kurdistán;Kurdistan;Kurdystan;;;;;X
+LAO;Laos;Laos;Laos;Laos;Laos;Laos;;;;;X
+MAD;Madagascar;Madagascar;Madagascar;Madagascar;Madagaskar;Madagaskar;;;;;X
+MAL;Union of Mali;Union du Mali;Unione di Mali;Unión de Malí;Union von Mali;Mali;;;;;X
+MEN;Mengkukuo;Mengkukuo;Mengkukuo;Mengkukuo;Mengkukuo;Mand¿ukuo;;;;;X
+MOZ;Mozambique;Mozambique;Mozambico;Mozambique;Mosambik;Mozambik;;;;;X
+NAM;Namibia;Namibie;Namibia;Namibia;Namibia;Namibia;;;;;X
+NIG;Nigeria;Nigeria;Nigeria;Nigeria;Nigeria;Nigeria;;;;;X
+OTT;Ottoman Empire;Empire Ottoman;Impero Ottomano;Imperio Otomano;Ottomanisches Reich;Imp. Ottomañskie;;;;;X
+PAK;Pakistan;Pakistan;Pakistan;Pakistán;Pakistan;Pakistan;;;;;X
+PRI;Primorsk;Primorsk;Primorsk;Primorsk;Primorsk;Rybaki;;;;;X
+PRK;People's Republic of Korea;République populaire de Corée;Repubblica popolare della Corea;República Popular de Corea;Volksrepublik Korea;Korea Pó³nocna;;;;;X
+QUE;Quebec;Québec;Quebec;Québec;Quebec;Quebec;;;;;X
+RHO;Rhodesia;Rhodésie;Rhodesia;Rhodesia;Rhodesien;Rodezja;;;;;X
+RSI;Italian Social Republic;République sociale italienne;Repubblica Sociale Italiana;República Socialista Italiana;Italienische Sozialrepublik;W³oska Rep. Socj.;;;;;X
+SCA;Scandinavia;Scandinavie;Scandinavia;Escandinavia;Skandinavien;Skandynawia;;;;;X
+SCO;Scotland;Écosse;Scozia;Escocia;Schottland;Szkocja;;;;;X
+SIE;Sierra Leone;Sierra Léone;Sierra Leone;Sierra Leona;Sierra Leone;Sierra Leone;;;;;X
+SOM;Somalia;Somalie;Somalia;Somalia;Somalia;Somalia;;;;;X
+SUD;Sudan;Soudan;Sudan;Sudán;Sudan;Sudan;;;;;X
+TEX;Texas;Texas;Texas;Texas;Texas;Teksas;;;;;X
+TRA;Transural Republic;République transurale;Repubblica Transurale;República Transural;Transural-Republik;Republika Zauralska;;;;;X
+VIE;Vietnam;Vietnam;Vietnam;Vietnam;Vietnam;Wietnam;;;;;X
+WLL;Wallonia;Wallonie;Wallonia;Valonia;Wallonien;Walonia;;;;;X
+ALS;The Allies;Les Alliés;Gli Alleati;Los Aliados;Die Alliierten;Alianci;;;;;X
+AXI;The Axis;L’Axe;L'Asse;El Eje;Die Achsenmächte;Pañstwa Osi;;;;;X
+ALI;Alien Invaders;Envahisseurs aliens;Invasori Alieni;Invasores extranjeros;Fremde Invasoren;Obcy NajeŸdŸcy;;;;;X
+U00;Kwantung Army;Kwantung Army;Esercito del Kwantung;Kwantung Army;Kwantung Armee;Kwantung Army;;;;;X
+U01;Nat. Spain;Espagne nationaliste;Spagna naz.;España Nacional;Nat. Spanien;Nacj. Hiszpania;;;;;X
+U02;British Raj;British Raj;British Raj;British Raj;Britisches Raj;British Raj;;;;;X
+U03;East Hebei Autonomous Council;Conseil autonome du Hebei;Consiglio autonoma Est Hebei;Consejo_Autónomo_de_Hebei_Oriental;Autonomierat von Ost-Hebei;Pó³nocne Chiny;China do Norte;Ñåâåğíûé Êèòàé;;;X
+U04;Free City of Danzig;Free City of Danzig;Free City of Danzig;Free City of Danzig;Freie Stadt Danzig;Free City of Danzig;;;;;X
+U05;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U06;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U07;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U08;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U09;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U10;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U11;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U12;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U13;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U14;Free France;Free France;Francia Libera;Free France;Freies Frankreich;Free France;;;;;X
+U15;Free British Commonwealth;Free British Commonwealth;Commonwealth Britannico Libero;Free British Commonwealth;Freies Britisches Commonwealth;Free British Commonwealth;;;;;X
+U16;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U17;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;;;;X
+U18;Italian East Africa;Afrique orientale italienne;Africa Orientale Italiana;África Oriental Italiana;Italienisch-Ostafrika;Wloska Afryka Wschodnia;;;;;X
+U19;Netherlands East Indies;Netherlands East Indies;Indie Orientali Olandesi;Netherlands East Indies;Niederländisch Ostindien;Netherlands East Indies;;;;;X
+U20;Finnish Democratic Republic;République Démocratique de Finlande;Repubblica Democratica Finlandese;República Democrática de Finlandia;Finnische Demokratische Republik;Fiñska Republika Demokratyczna;;Ôèíñêàÿ Äåìîêğàòè÷åñêàÿ Ğåñïóáëèêà;;;X
+U21;Swedish Socialist Union;Union Socialiste de Suède;Unione Socialista Svedese;Unión Socialista Sueca;Schwedische Sozialistische Union;Szwedzki Zwi¹zek Socjalistyczny;;Øâåäñêèé Ñîöèàëèñòè÷åñêèé Ñîşç;;;X
+U22;People's Republic of Denmark;République Populaire du Danemark;Repubblica Popolare di Danimarca;República Popular de Dinamarca;Volksrepublik Dänemark;Duñska Republika Ludowa;;Íàğîäíàÿ Ğåñïóáëèêà Äàíèÿ;;;X
+U23;Saarprotektorat;Protectorat de la Sarre;Protettorato della Saar;Protectorado del Sar;Saarprotektorat;Protektorat Saary;;Ñààğñêèé Ïğîòåêòîğàò;;;X
+U24;Allied Occupation Zone;Zone d'occupation alliée;Zona d'occupazione alleata;Zona de Ocupación Aliada;Allierte Besatzungszone;Aliancka strefa okupacyjna;;Çîíà îêêóïàöèè Ñîşçíèêîâ;;;X
+U25;Soviet Occupation Zone;Zone d'occupation soviétique;Zona d'occupazione sovietica;Zona de Ocupación Soviética;Sowjetische Besatzungszone;Radziecka strefa okupacyjna;;Ñîâåòñêàÿ îêêóïàöèîííàÿ çîíà;;;X
+U26;Swiss Socialist Republic;République Socialiste de Suisse;Repubblica Socialista Svizzera;República Socialista de Suiza;Sozialistische Republik Schweiz;Szwajcarska Republika Socjalistyczna;;Ñîöèàëèñòè÷åñêàÿ Ğåñïóáëèêà Øâåéöàğèÿ;;;X
+U27;Socialist Federal Republic of Yugoslavia;République Socialiste Fédérale de Yougoslavie;Repubblica Socialista Federale di Jugoslavia;República Federal Socialista de Yugoslavia;Sozialistische Föderative Republik Jugoslawien;Socjalistyczna Federacja Jugos³awii;;Ñîöèàëèñòè÷åñêàÿ Ôåäåğàòèâíàÿ Ğåñïóáëèêà Şãîñëàâèÿ;;;X
+U28;Socialist People's Republic of Albania;République Populaire Socialiste d'Albanie;Repubblica Popolare Socialista d'Albania;República Popular Socialista de Albania;Sozialistische Volksrepublik Albanien;Albañska Republika Ludowa;;Íàğîäíàÿ Ñîöèàëèñòè÷åñêàÿ Ğåñïóáëèêà Àëáàíèÿ;;;X
+U29;People's Republic of Bulgaria;République Populaire de Bulgarie;Repubblica Popolare di Bulgaria;República Popular de Bulgaria;Volksrepublik Bulgarien;Bu³garska Republika Ludowa;;Íàğîäíàÿ Ğåñïóáëèêà Áîëãàğèÿ;;;X
+U30;Romanian People's Republic;République Populaire de Roumanie;Repubblica Popolare di Romania;República Socialista de Rumania;Sozialistische Republik Rumänien;Rumuñska Republika Socjalistyczna;;Ñîöèàëèñòè÷åñêàÿ Ğåñïóáëèêà Ğóìûíèÿ;;;X
+U31;Czechoslovak Socialist Republic;République Socialiste de Tchécoslovaquie;Repubblica Socialista Cecoslovacca;República Socialista de Checoslovaquia;Tschechoslowakische Sozialistische Republik;Czechos³owacka Republika Ludowa;;×åõîñëîâàöêàÿ Ñîöèàëèñòè÷åñêàÿ Ğåñïóáëèêà;;;X
+U32;People's Republic of Poland;République Populaire de Pologne;Repubblica Popolare di Polonia;República Popular de Polonia;Volksrepublik Polen;Polska Rzeczpospolita Ludowa;;Ïîëüñêàÿ Íàğîäíàÿ Ğåñïóáëèêà;;;X
+U33;Democratic Republic of Greece;République Démocratique de Grèce;Repubblica Democratica di Grecia;República Democrática de Grecia;Demokratische Republik Griechenland;Grecka Republika Demokratyczna;;Äåìîêğàòè÷åñêàÿ Ğåñïóáëèêà Ãğåöèÿ;;;X
+U34;Socialist Republic of Turkey;République Socialiste de Turquie;Repubblica Socialista di Turchia;República Socialista de Turquía;Sozialistische Republik Türkei;Turecka Republika Socjalistyczna;;Ñîöèàëèñòè÷åñêàÿ Ğåñïóáëèêà Òóğöèÿ;;;X
+U35;Communist Spain;Espagne Communiste;Spagna Comunista;España Comunista;Kommunistisches Spanien;Komunistyczna Hiszpania;;Ğåñïóáëèêà Èñïàíèÿ;;;X
+U39;Hatay State;Hatay State;Hatay State;Hatay State;Hatay;Pañstwo Hatay;Hatay State;Ãîñóäàğñòâî Õàòàé;;;X
+U40;Reichskommissariat Ostland;Reichskommissariat Ostland;Reichskommissariat Ostland;Reichskommissariat Ostland;Reichskommissariat Ostland;Komisariat Rzeszy Wschód;;Ğåéõñêîìèññàğèàò Îñòëàíä;;;X
+U41;Reichskommissariat Ukraine;Reichskommissariat Ukraine;Reichskommissariat Ukraine;Reichskommissariat Ukraine;Reichskommissariat Ukraine;Komisariat Rzeszy Ukraina;;Ğåéõñêîìèññàğèàò Óêğàèíà;;;X
+U42;Reichskommissariat Kaukasus;Reichskommissariat Kaukasus;Reichskommissariat Kaukasus;Reichskommissariat Kaukasus;Reichskommissariat Kaukasus;Komisariat Rzeszy Kaukaz;;Ğåéõñêîìèññàğèàò Êàâêàç;;;X
+U43;Reichskommissariat Moskowien;Reichskommissariat Moskowien;Reichskommissariat Moskowien;Reichskommissariat Moskowien;Reichskommissariat Moskowien;Komisariat Rzeszy Moskwa;;Ğåéõñêîìèññàğèàò Ìîñêîâèÿ;;;X
+U44;Generalgouvernement Polen;Gouvernement Général de Pologne;Generalgouvernement Polen;Generalgouvernement Polen;Generalgouvernement Polen;Generalne Gubernatorstwo;;Ãåíåğàë-Ãóáåğíàòîğñòâî;;;X
+U45;Reichskommissariat Norwegen;Reichskommissariat Norwegen;Reichskommissariat Norwegen;Reichskommissariat Norwegen;Reichskommissariat Norwegen;Komisariat Rzeszy Norwegia;;Ğåéõñêîìèññàğèàò Íîğâåãèÿ;;;X
+U46;Reichskommissariat Niederlande;Reichskommissariat Niederlande;Reichskommissariat Niederlande;Reichskommissariat Niederlande;Reichskommissariat Niederlande;Komisariat Rzeszy Holandia;;Ğåéõñêîìèññàğèàò Íèäåğëàíäû;;;X
+U47;Reichskommissariat Belgien-Nordfrankreich;Reichskommissariat Belgien-Nordfrankreich;Reichskommissariat Belgien-Nordfrankreich;Reichskommissariat Belgien-Nordfrankreich;Reichskommissariat Belgien-Nordfrankreich;Komisariat Rzeszy Belgia-Pó³nocna Francja;;Ğåéõñêîìèññàğèàò Áåëüãèÿ è Ñåâåğíàÿ Ôğàíöèÿ;;;X
+U48;Reichskommissariat Turkestan;Reichskommissariat Turkestan;Reichskommissariat Turkestan;Reichskommissariat Turkestan;Reichskommissariat Turkestan;Komisariat Rzeszy Turkiestan;;Ğåéõñêîìèññàğèàò Òóğêåñòàí;;;X
+U49;Italian East Africa;Afrique Orientale Italienne;Africa Orientale Italiana;Africa Oriental Italiana;Italienisch Ostafrika;W³oska Afryka Wschodnia;;Èòàëüÿíñêàÿ Âîñò.Àôğèêà;;;X
+U50;Free India;Free India;Free India;Free India;Freies Indien;Free India;;;;;X
+U51;Republic of the Philippines;Republic of the Philippines;Republic of the Philippines;Republic of the Philippines;Philippinische Republik;Republic of the Philippines;;;;;X
+U52;Free Burma;Free Burma;Free Burma;Free Burma;Freies Burma;Free Burma;;;;;X
+U53;Trucial States;Etats de la Trêve;gli Stati della tregua;Trucial States;Trucial States;Oman Traktatowy;;Îìàí äîãîâîğíûé;;;X
+U54;WUPR;Ukraine Occidentale;WUPR ;WUPR;WUPR;Wschodnia Ukraina;;Âîñòî÷íî-Óêğàèíñêàÿ íàğîäíàÿ ğåñïóáëèêà;;;X
+U55;Republic of Tarnobrzeg;République de Tarnobrzeg;Repubblica di Tarnobrzeg ;Republica de Tarnobrzeg;Die Republik von Tarnobrzeg;Republika Tarnobrzeska;;Òàğíîáæåãñêàÿ ğåñïóáëèêà;;;X
+U56;Makhnovschina;Makhnovschina;Makhnovschina ;Makhnovschina;Makhnovschina;Machnowszczyzna;;Ìàõíîâùèíà;;;X
+U57;Constitucionalistas;Constitutionnalistes;Constituzionalisti;Constitucionalistas;Konstitutionalisten;Konstytucjonaliœci;;Êîíñòèòóöèàëèñòû;;;X
+U58;Villistas;Villistas;Villisti;Villistas;Villisten;Villiœci;;Âèëüèñòû;;;X
+U59;Zapatistas;Zapatistes;Zapatisti;Zapatistas;Zapatisten;Zapatiœci;;Ñàïàòèñòû;;;X
+U60;Newfoundland;Terre-Neuve;Terranova;Terranova;Neufundland;Nowa Fundlandia;;Íüşôàóíäëåíä;;;X
+U61;Reichskommissariat Don-Wolga;Reichskommissariat Don-Wolga;Reichskommissariat Don-Wolga;Reichskommissariat Don-Wolga;Reichskommissariat Don-Wolga;Reichskommissariat Don-Wolga;;Reichskommissariat Don-Wolga;;;X
+U62;Kosakien;Kosakien;Kosakien;Kosakien;Kosakien;Kosakien;;Kosakien;;;X
+U63;Republik Kalmückien;Republik Kalmückien;Republik Kalmückien;Republik Kalmückien;Republik Kalmückien;Republik Kalmückien;;Republik Kalmückien;;;X
+U66;Principality of the Pindus;Principauté de Pindus;Principato del Pindo;Principado de Pindo;Fürstentum Pindus;Ksiêstwo Pindosu;;Êíÿæåñòâî Ïèíäîñ;;;X
+U67;Fengtian Clique;Clan Fengtian;Fengtian Clique;Camarilla de Fengtian;Fengtian Clique;Klika Fengtiañska;;Ôıíòÿíüñêàÿ êëèêà;;;X
+U69;Revolutionary Mexico;Mexique Révolutionaire;Messico Rivoluzionario;Mexico Revolucionario;Republik Mexiko;Rewolucyjny Meksyk;;Ğåâîëşöèîííàÿ Ìåêñèêà;;;X
+USN;USNA;EUAN;Stati Uniti del Nord America;EE.UU.;USNA;USNA;EUAN;ÑÀÑØ;;;X
+UAU;Australasia;Australasie;Australasia;Australasia;Australasiat. Staatenbund;Australazja;Australásia;Àâñòğàëàçèÿ;;;X
+UCH;Republic of China;République de Chine;Repubblica Cinese;República de China;Chinesische Republik;Republika Chiñska;República da China;Êèòàéñêàÿ Ğåñïóáëèêà;;;X
+UBO;Bourbon;Les Bourbons;Regno Borbonico;Borbones;Bourbonisches Königreich;Pañstwo Burbonów;Bourbon;Áóğáîíû;;;X
+UTC;The Volunteers Army;L'Armée des Volontaires;Unione Cosacca;Los cosacos;Kosakenunion;Hetmanat Kozacki;Cossacos;Êàçàêè;;;X
+UGS;Sweden;Suède;Svezia;Suecia;Schwedisches Königreich;;;;;;x
+UPE;Republic of Persia;République de Perse;Repubblica Persiana;República de Persia;Persische Republik;;;;;;x
+UCS;The Confederates;Les Confédérés;Stati Confederati;Los confederados;Konföderierte Staaten;Konfederaci;Confederados;Êîíôåäåğàòû;;;X
+UIC;Indo China;Indo-Chine;Indocina;Indochina;Indochina;Indochiny;Indochina;Èíäîêèòàé;;;X
+UPR;Prussia;Prusse;Prussia;Prusia;Preußisches Königreich;Prusy;Prússia;Ïğóññèÿ;;;X
+UER;Ufa Directory;Directoire d'Oufa;Direttorato d'Ufa;Imperio de Rusia;Russisches Reich;Imperium Rosyjskie;Império Russo;Óôèìñêàÿ äèğåêòîğèÿ;;;X
+UTO;The Ottomans;Les Ottomans;Impero Ottomano;Los otomanos;Osmanisches Reich;Imperium Osmañskie;Otomanos;Îñìàíñêàÿ èìïåğèÿ;;;X
+UIR;Indian Republic;République Indienne;Repubblica Indiana;República India;Indische Republik;Republika Indyjska;República da Índia;Ğåñïóáëèêà Èíäèÿ;;;X
+UTL;The Libertadores;Les Libertadores;I Libertadores;Los Libertadores;Südamerikan. Gemeinschaft;Libertadores;Libertadores;Îñâîáîäèòåëè;;;X
+UPS;PRRS;RPSL;Repubblica Popolare del Sol Levante;PRRS;VR der aufgehenden Sonne;PRRS;RPSN;ÍĞÂÑ;;;X
+UES;European Soviets;Soviets européens;Soviet europei;Soviets Europeos;Europäische Räterepublik;Europa Sowiecka;Sovietes Europeus;Åâğîïåéñêèå Ñîâåòû;;;X
+URO;Roma;Rome;Repubblica Socialista Romana;Roma;Römische Sozialrepublik;Pañstwo Rzymskie;Roma;Ğèì;;;X
+UAP;APR;RPA;Repubblica Popolare Africana;CNA;Afrikanische Volksrepublik;Afrykañska Republika Ludowa;RPA;ÀÍĞ;;;X
+U70;Uganda;Ouganda;Uganda;Uganda;Uganda;Uganda;Uganda;Óãàíäà;;;X
+U71;Northern Ireland;Irlande du Nord;Irlanda del Nord;Irlanda del Norte;Nordirland;Irlandia Pólnocna;Irlanda do Norte;Ñåâåğíàÿ Èğëàíäèÿ;;;X
+U72;Democratic Republic of Vietnam;République Démocratique du Vietnam;Vietnam comunista;Vietnam comunista;Volksrepublik Vietnam;Komunistyczny Wietnam;Vietnã comunista;Êîììóíèñòè÷åñêèé Âüåòíàì;;;X
+U73;England;Angleterre;Inghilterra;Inglaterra;England;Anglia;Inglaterra;Àíãëèÿ;;;X
+U74;Northern China;Chine du Nord;Cina del nord;China del Norte;Nordchina;Pó³nocne Chiny;China do Norte;Ñåâåğíûé Êèòàé;;;X
+U75;Singapore;Singapour;Singapore;Singapur;Singapur;Singapur;Cingapura;Ñèíãàïóğ;;;X
+U76;Wales;Pays de Galles;Galles;Gales;Wales;Walia;País de Gales;Óıëüñ;;;X
+U77;Greater Colombia;Grande Colombie;Gran Colombia;Gran Colombia;Großkolumbien;Wielka Kolumbia;Grã-Colômbia;Âåëèêàÿ Êîëóìáèÿ;;;X
+U78;Central America;Amérique Centrale;America Centrale;Centroamérica;Zentralamerika;Ameryka Œrodkowa;América Central;Öåíòğàëüíàÿ Àìåğèêà;;;X
+U79;West Indies;Indes Occidentales;Indie Occidentali;Indias Occidentales;Westindische Inseln;Indie Zachodnie;Índias Ocidentais;Çàïàäíàÿ Èíäèÿ;;;X
+U80;Kashmir;Cachemire;Kashmir;Cachemira;Kaschmir;Kaszmir;Caxemira;Êàøìèğ;;;X
+U81;Upper Volta;Haute-Volta;Alto Volta;Alto Volta;Obervolta;Górna Wolta;Alto Volta;Âåğõíÿÿ Âîëüòà;;;X
+U82;Central Africa;Centrafrique;Centrafrica;África Central;Zentralafrika;Afryka Œrodkowa;África Central;Öåíòğàëüíàÿ Àôğèêà;;;X
+U83;Ceylon;Ceylan;Ceylon;Ceilán;Ceylon;Cejlon;Ceilão;Öåéëîí;;;X
+U84;Chad;Tchad;Ciad;Chad;Tschad;Czad;Chade;×àä;;;X
+U85;Congo-Brazzaville;Congo-Brazzaville;Congo-Brazzaville;Congo-Brazzaville;Kongo-Brazzaville;Kongo-Brazzaville;Congo-Brazzaville;Êîíãî-Áğàççàâèëü;;;X
+U86;Gambia;Gambie;Gambia;Gambia;Gambia;Gambia;Gâmbia;Ãàìáèÿ;;;X
+U87;China-Nanking;Chine-Nankin;Cina-Nanchino;China-Nanjing;China-Nanjing;Chiny Nankiñskie;China-Nanking;Êèòàé-Íàíêèí;;;X
+U88;Ivory Coast;Côte d'Ivoire;Costa d'Avorio;Costa de Marfil;Elfenbeinküste;Wybrze¿e Koœci S³oniowej;Costa do Marfim;Áåğåã Ñëîíîâîé Êîñòè;;;X
+U89;Jamaica;Jamaïque;Giamaica;Jamaica;Jamaika;Jamajka;Jamaica;ßìàéêà;;;X
+U90;Kenya;Kenya;Kenya;Kenia;Kenia;Kenia;Quênia;Êåíèÿ;;;X
+U91;Kuwait;Koweït;Kuwait;Kuwait;Kuwait;Kuwejt;Kuwait;Êóâåéò;;;X
+U92;Malta;Malte;Malta;Malta;Malta;Malta;Malta;Ìàëüòà;;;X
+U93;Mauritania;Mauritanie;Mauritania;Mauritania;Mauretanien;Mauretania;Mauritânia;Ìàâğèòàíèÿ;;;X
+U94;Niger;Niger;Niger;Níger;Niger;Niger;Níger;Íèãåğèÿ;;;X
+U95;Rwanda;Rwanda;Ruanda;Ruanda;Ruanda;Rwanda;Ruanda;Ğóàíäà;;;X
+U96;Senegal;Sénégal;Senegal;Senegal;Senegal;Senegal;Senegal;Ñåíåãàë;;;X
+U97;Tanganyika;Tanganyika;Tanganika;Tanganica;Tanganjika;Tanganika;Tanganica;Òàíãàíüèêà;;;X
+U98;Trinidad and Tobago;Trinité-et-Tobago;Trinidad e Tobago;Trinidad y Tobago;Trinidad und Tobago;Trynidad i Tobago;Trinidade e Tobago;Òğèíèíäàä-è-Òîáàãî;;;X
+U99;Togo;Togo;Togo;Togo;Togo;Togo;Togo;Òîãî;;;X
+#EOF;;;;;;;;;;;x
